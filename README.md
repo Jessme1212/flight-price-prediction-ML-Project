@@ -56,4 +56,4 @@ A machine learning project to predict flight prices based on real-world data, us
 Jessica Meza Perez  
 _M.S. Data Science | Aspiring Data Scientist | AI Enthusiast_
 
-Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofilehere](https://www.linkedin.com/in/jessica-meza-perez-m-s-ds-b88696184/))
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jessica-meza-perez-m-s-ds-b88696184/)
