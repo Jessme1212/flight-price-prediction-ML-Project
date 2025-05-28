@@ -49,8 +49,7 @@ A machine learning project to predict flight prices based on real-world data, us
 ## Files in This Repository
 
 - `FlightFarePrediction.ipynb` – Jupyter Notebook with full code and commentary
-- `model.pkl` – Trained model saved for future use (if included)
-- `flight_fare_prediction.html` – HTML version of the notebook (optional)
+- `flight_fare_prediction.html` – HTML version of the notebook 
 
 ## Author
 
